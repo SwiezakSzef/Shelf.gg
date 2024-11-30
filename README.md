@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/banner.png">
+   <img src="">
 </p>
 
 <p align="center">
